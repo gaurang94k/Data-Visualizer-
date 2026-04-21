@@ -45,6 +45,3 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-## Deployment
-
-This project can be deployed directly on Streamlit Community Cloud by connecting a GitHub repository and selecting `app.py` as the entry point.
