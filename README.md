@@ -2,6 +2,8 @@ Smart Data Visualizer
 
 A Streamlit app that automatically profiles an uploaded CSV dataset, recommends useful charts, and generates rule-based insights.
 
+Live App -  Live App: https://<your-app-name>.streamlit.app
+
 ## Features
 
 - CSV upload
