@@ -1,6 +1,6 @@
-# InsightLens: Smart Data Visualizer
+Smart Data Visualizer
 
-InsightLens is a Streamlit app that automatically profiles an uploaded CSV dataset, recommends useful charts, and generates rule-based insights.
+A Streamlit app that automatically profiles an uploaded CSV dataset, recommends useful charts, and generates rule-based insights.
 
 ## Features
 
